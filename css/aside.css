@@ -1,0 +1,28 @@
+aside .ignite {
+  font-size: 20px;
+}
+
+aside .ignite a {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+aside form input {
+  font-size: 18px !important;
+}
+
+aside form textarea {
+  font-size: 26px !important;
+}
+
+aside form .btn-success {
+  background-color: rgb(224, 201, 68);
+  border: 1px solid rgb(224, 201, 68);
+  color: white;
+  font-size: 26px;
+}
+
+aside form .btn-success:hover {
+  background-color: rgb(206, 183, 52) !important;
+  border: 1px solid rgb(206, 183, 52) !important;
+}

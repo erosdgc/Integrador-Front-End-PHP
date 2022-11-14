@@ -1,0 +1,23 @@
+main .conoce h1 {
+  font-size: 40px;
+  color: black;
+}
+
+main .btn-info-2 {
+  background-color: rgb(177, 177, 177);
+  color: white;
+}
+
+main .btn-info-2:hover {
+  background-color: rgb(138, 138, 138) !important;
+  color: white !important;
+}
+
+main .card-info-btns p {
+  font-size: 14px;
+  font-weight: bolder;
+  border-radius: 5px;
+  margin-inline-end: 5px;
+  padding: 0;
+  padding-inline: 5px;
+}
